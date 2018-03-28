@@ -10,7 +10,7 @@ public class SpringMvcApplication {
 		SpringApplication.run(SpringMvcApplication.class, args);
 	}
 	/*
-
+ss
 	 */
 	public static  void sendMsg(String msg)
 	{
