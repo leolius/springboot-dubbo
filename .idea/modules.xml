@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo.iml" filepath="$PROJECT_DIR$/dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-provide/spring-dubbo-provide.iml" filepath="$PROJECT_DIR$/springboot-dubbo-provide/spring-dubbo-provide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc/spring-mvc.iml" filepath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-api/springboot-dubbo-api.iml" filepath="$PROJECT_DIR$/springboot-dubbo-api/springboot-dubbo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-consume/springboot-dubbo-consume.iml" filepath="$PROJECT_DIR$/springboot-dubbo-consume/springboot-dubbo-consume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka-consumer/springboot-kafka-consumer.iml" filepath="$PROJECT_DIR$/springboot-kafka-consumer/springboot-kafka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka-producer/springboot-kafka-producer.iml" filepath="$PROJECT_DIR$/springboot-kafka-producer/springboot-kafka-producer.iml" />
+    </modules>
+  </component>
+</project>
